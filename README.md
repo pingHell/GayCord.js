@@ -26,5 +26,5 @@ if (true)
 ```
 
 ## Packages
-* axios
-* discord.js (NOTE: This is a old version that will actually work, I will make it as simple to use as possible, the only reason I'm using this is well because, I'm lazy.)
+* Axios
+* [Discord.js](https://github.com/discordjs) (NOTE: This is a old version that will actually work, I will make it as simple to use as possible, the only reason I'm using this is well because, I'm lazy.)
