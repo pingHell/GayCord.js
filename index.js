@@ -1,4 +1,5 @@
-const Webhook = require("./Client/Webhook.js");
+const Webhook = require("./API/Webhook.js");
+const Client = require("./Client/Client.js");
 
-console.log("");
-console.log("                                                   GayCord.js");
+console.clear();
+console.log("                                                       GayCord.js");
