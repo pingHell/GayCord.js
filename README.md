@@ -30,7 +30,7 @@ if (true)
 * [Discord.js](https://github.com/discordjs) (NOTE: This is a old version that will actually work, I will make it as simple to use as possible, the only reason I'm using this is well because, I'm lazy.)
 
 ## Download the correct [Discord.js](https://github.com/discordjs) version
-* Open node_modules
-* Drag and drop @discordjs folder 
+* Open cmd
+* cd to GayCord.js\src
+* npm install discord.js@12.5.3
 * Profit, because this version actually works!
-
