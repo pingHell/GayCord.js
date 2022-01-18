@@ -1,5 +1,5 @@
 # GayCord.js
-Fuck you @discocrd and @discord.js
+Fuck you [Discord](https://github.com/discord) and [Discord.js](https://github.com/discordjs)
 
 # Discord
 Fuck you the most
