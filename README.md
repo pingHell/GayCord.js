@@ -13,7 +13,7 @@ Fuck your stupid library, its dog shit
 * Your new version of your webhook doesn't even work L bozo 
 * You have a gay flag as your logo, fuckin bozos
 
-# :page_facing_up: code style
+## :page_facing_up: code style
 1. all curly braces should be on it's own line, stop being retarded
 ```js
 if (true)
