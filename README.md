@@ -1,6 +1,9 @@
 ## GayCord.js
 Fuck you [Discord](https://github.com/discord) and [Discord.js](https://github.com/discordjs)
 
+## About GayCord.js
+I use to love discord.js, it was fairly simple but over time the updates have just broken some features, so I present you GayCord.js. This is **NOT** a node.js module at this time, but you can use it by downloading the source and running it directly. I wanted to make something easy to use  and something that actually works. This **DOES** use discord.js for some things, but as this advances I plan to make raw Discord API calls, like I did for my webhook module.
+
 ## Discord
 Fuck you the most
 * Ran by furries
