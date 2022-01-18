@@ -28,3 +28,9 @@ if (true)
 ## Packages
 * Axios
 * [Discord.js](https://github.com/discordjs) (NOTE: This is a old version that will actually work, I will make it as simple to use as possible, the only reason I'm using this is well because, I'm lazy.)
+
+## Download the correct [Discord.js](https://github.com/discordjs) version
+* Open node_modules
+* Drag and drop @discordjs folder 
+* Profit, because this version actually works!
+
