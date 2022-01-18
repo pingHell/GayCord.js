@@ -1,4 +1,4 @@
-# GayCord.js
+## GayCord.js
 Fuck you [Discord](https://github.com/discord) and [Discord.js](https://github.com/discordjs)
 
 ## Discord
