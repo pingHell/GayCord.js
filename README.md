@@ -14,7 +14,7 @@ Fuck your stupid library, its dog shit
 * You have a gay flag as your logo, fuckin bozos
 
 ## :page_facing_up: Code style
-1. all curly braces should be on it's own line, stop being retarded
+1. All curly braces should be on it's own line, stop being retarded
 ```js
 if (true)
 {
